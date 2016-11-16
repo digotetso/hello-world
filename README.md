@@ -1,2 +1,3 @@
 # hello-world
 initial setup
+I'm self taught web developer, still learning and I'do hope someday I become an expert in this field...
